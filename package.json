@@ -20,10 +20,8 @@
   },
   "homepage": "https://github.com/Roman0407/node.js-hw-01-contacts#readme",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.21"
+    "commander": "^10.0.0",
+    "nodemon": "^2.0.21",
+    "shortid": "^2.2.16"
   }
 }
